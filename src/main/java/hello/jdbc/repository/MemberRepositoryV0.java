@@ -1,7 +1,5 @@
 package hello.jdbc.repository;
 
-import static hello.jdbc.connection.DBConnectionUtil.getConnection;
-
 import hello.jdbc.connection.DBConnectionUtil;
 import hello.jdbc.domain.Member;
 import java.sql.Connection;
