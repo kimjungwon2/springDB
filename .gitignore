@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+/hs_err_pid14052.log
+/hs_err_pid4496.log
+/hs_err_pid20380.log

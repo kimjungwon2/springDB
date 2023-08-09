@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
-public class MemberService1 {
+public class MemberServiceV1 {
 
     private final MemberRepositoryV1 memberRepository;
 
